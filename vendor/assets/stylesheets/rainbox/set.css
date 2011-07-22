@@ -1,10 +1,9 @@
 html, body { height: 100%; }
 
 body {
-  background: url('/assets/rainbox.png') repeat-x center top;
+  background: url('/assets/body.gif') repeat-x top;
   font-family: "Aller", Helvetica, Arial, sans-serif;
   font-size: 87.5%;
-  margin: 32px 0;
 }
 
 body.rainbox-no-frieze { background: none; }
