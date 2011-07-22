@@ -1,3 +1,5 @@
+.rainbox-frieze { background: url('/assets/rainbox.png') repeat-x center top; }
+
 .rainbox-red-color     { color: #e03434; } /* 0 77 88 */
 .rainbox-orange-color  { color: #e04c1b; } /* 15 88 88 */
 .rainbox-green-color   { color: #6ec418; } /* 90 88 77 */

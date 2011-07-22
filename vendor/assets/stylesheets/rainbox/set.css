@@ -4,6 +4,8 @@ body {
   background: url('/assets/body.gif') repeat-x top;
   font-family: "Aller", Helvetica, Arial, sans-serif;
   font-size: 87.5%;
+  margin: 0;
+  padding: 0;
 }
 
 body.rainbox-no-frieze { background: none; }
