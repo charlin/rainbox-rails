@@ -1,4 +1,7 @@
-#global { background: url('/assets/body.gif') repeat-x top; }
+#global, #app, #document {
+  background: url('/assets/body.gif') repeat-x top;
+  height: 100%;
+}
 
 #header { margin: 0 32px 32px; }
 
