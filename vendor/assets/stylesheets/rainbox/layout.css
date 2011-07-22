@@ -1,0 +1,16 @@
+.rainbox-excerpt {
+  width: 512px;
+  margin-bottom: 32px;
+}
+
+.rainbox-content {
+  width: 768px;
+  margin-bottom: 32px;
+}
+
+.rainbox-panel {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -o-border-radius: 8px;
+  border-radius: 8px;
+}

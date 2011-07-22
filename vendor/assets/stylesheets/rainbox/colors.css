@@ -1,0 +1,13 @@
+.rainbox-red-color     { color: #e03434; } /* 0 77 88 */
+.rainbox-orange-color  { color: #e04c1b; } /* 15 88 88 */
+.rainbox-green-color   { color: #6ec418; } /* 90 88 77 */
+.rainbox-blue-color    { color: #348ae0; } /* 210 77 88 */
+.rainbox-purple-color  { color: #a443c4; } /* 285 66 77 */
+.rainbox-pink-color    { color: #e0348a; } /* 330 77 88 */
+
+.rainbox-red-background     { background: #e03434; } /* 0 77 88 */
+.rainbox-orange-background  { background: #e04c1b; } /* 15 88 88 */
+.rainbox-green-background   { background: #6ec418; } /* 90 88 77 */
+.rainbox-blue-background    { background: #348ae0; } /* 210 77 88 */
+.rainbox-purple-background  { background: #a443c4; } /* 285 66 77 */
+.rainbox-pink-background    { background: #e0348a; } /* 330 77 88 */
