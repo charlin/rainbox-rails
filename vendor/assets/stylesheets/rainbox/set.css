@@ -1,4 +1,4 @@
-html, body { height: 100% }
+html, body { height: 100%; }
 
 body {
   background: url('/assets/rainbox.png') repeat-x center top;
@@ -6,6 +6,8 @@ body {
   font-size: 87.5%;
   margin: 32px 0 32px 0;
 }
+
+body.rainbox-no-frieze { background: none; }
 
 mark { background: #fcfca8; }
 
